@@ -1,2 +1,3 @@
 # Prepcourse-Henry
-este es un repositorio de prueba del prepcourse de Henry
+este proyecto es para crear un repositorio y clonarlo desde mi pc a github.
+    
